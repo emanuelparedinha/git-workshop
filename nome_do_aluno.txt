@@ -1,2 +1,2 @@
 ﻿Emanuel Paredinha
-“Alteração no branch emanuel”.
+Este é o meu primeiro ficheiro no Git!
